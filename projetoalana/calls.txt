@@ -1,0 +1,63 @@
+------------------------------------------------------------------------------------------------------------------
+ |                                                                                                                 |
+ |                                          ALANA'S CORPORATION Ⓡ                                                  |
+ |                                                                                                                 |
+ |                                          HISTÓRICO DE CHAMADOS                                                  |
+ -------------------------------------------------------------------------------------------------------------------
+
+qtd_de_chamados: 0
+----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de rede
+Título: rede
+Descrição: rede
+Data e hora: 18/11/2019 - 22:10:25
+
+-----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de Internet
+Título: internet
+Descrição: internet
+Data e hora: 18/11/2019 - 22:10:25
+
+-----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de rede
+Título: mod
+Descrição: mod
+Data e hora: 20/11/2019 - 13:57:12
+
+-----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de Internet
+Título: mod2 
+Descrição: mod2
+Data e hora: 20/11/2019 - 13:57:12
+
+-----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de rede
+Título: teste
+Descrição: teste rede
+Data e hora: 27/11/2019 - 08:19:46
+
+-----------------------------------------------------------------------------------------------------------------------
+ID: 1
+Autor: Jose da Silva
+Status do chamado: 0
+Tipo do chamado: Serviço de Internet
+Título: teste inter
+Descrição: teste inter
+Data e hora: 27/11/2019 - 08:19:46
+
+-----------------------------------------------------------------------------------------------------------------------

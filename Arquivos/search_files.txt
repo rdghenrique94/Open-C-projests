@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------------------------------
+ |                                                                                                                 |
+ |                                          ALANA'S CORPORATION Ⓡ                                                  |
+ |                                                                                                                 |
+ |                                          HISTÓRICO DE CHAMADOS                                                  |
+ -------------------------------------------------------------------------------------------------------------------
+ID: 0
+Autor: Igor
+Status do chamado: Em andamento
+Tipo do chamado: Serviço de rede
+Título: teste de chamado de rede
+Descrição: descricao
+Data e hora: 13/11/2019 - 11:13:26
+
+-----------------------------------------------------------------------------------------------------------------------
+
+ID: 0
+Autor: Igor
+Status do chamado:  Em aberto
+Tipo do chamado: Serviço de Internet
+Título: titulo teste
+Descrição: descricao
+Data e hora: 13/11/2019 - 11:13:26
+
+-----------------------------------------------------------------------------------------------------------------------
+
+ID: 0
+Autor: Igor
+Status do chamado:  Em aberto
+Tipo do chamado: Serviço de Internet
+Título: titulo teste
+Descrição: descricao
+Data e hora: 13/11/2019 - 11:13:26
+
+-----------------------------------------------------------------------------------------------------------------------
