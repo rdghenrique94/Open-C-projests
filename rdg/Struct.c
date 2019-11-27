@@ -2,19 +2,19 @@
 #include <locale.h>
 #include <stdlib.h>
 
-struct horario
+/*truct horario
 {
     int horas;
     int minutos;
     int segundos;
-};
+};*/
 
 int main (void){
 setlocale(LC_ALL,"portuguese");
 
 //DEFININDO ESTRUTURA
 
-    /*struct horario //tipo da estrutura, nome da estrutura
+    struct horario //tipo da estrutura, nome da estrutura
 {
       int horas;
       int minutos;
@@ -53,9 +53,9 @@ setlocale(LC_ALL,"portuguese");
     printf("Fuso Horario: %i Horas :%i Minutos :%i Segundos :\n", depois.horas, depois.minutos, depois.segundos);
     printf("O valor da operação é: %f\n", depois.teste);
     printf("Valor referente ao %c\n", depois.letra);
-}*/
 
 
 
-    return x;
+
+    return 0;
 }

@@ -15,7 +15,7 @@ FILE *file1;
   file = fopen("C:\\Users\\NATHALIA\\Desktop\\string.txt", "w");
   file1 = fopen("C:\\Users\\NATHALIA\\Desktop\\numero.txt", "w");
 
-        fprintf(file,"Eu\nTe\nAmo\nNega");
+        fprintf(file,"teste");
         fprintf(file1, "10 20 30");
         fclose(file);
         fclose(file1);
